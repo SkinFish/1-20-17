@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+input.input-name {
+	margin-left: -10% !important;
+	width: 12%;
+	display: inline-block;
+	margin-bottom: 2%!important;
+}
+input.input-last-name {
+	margin-left: 2% !important;
+	width: 12%;
+	display: inline-block;
+	margin-bottom: 2%!important;
+}
+input.input-birth {
+	margin-left: -10% !important;
+	width: 26.2%;
+	display: inline-block;
+	margin-bottom: 2%!important;
+}
+select.select-gender {
+	margin-left: -10% !important;
+	width: 26.2%;
+	display: inline-block;
+	margin-bottom: 2%!important;
+}
+textarea.input-text {
+	margin-left: -10% !important;
+	width: 26.2%;
+	display: inline-block;
+	margin-bottom: 2%!important;
+}
+.check-remember {
+	margin-left: 1%!important;
+}
+button.alone-button {
+	margin-left: 1%!important;
+}
